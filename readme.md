@@ -1,6 +1,6 @@
 - [English](#English)
 
-# Proyecto Nombre
+# shortly
 
 Esta es una solución para el [desafío de la aplicación calculadora de edad en Frontend Mentor](https://www.frontendmentor.io/challenges/age-calculator-app-dF9DFFpj-Q).
 
@@ -26,6 +26,7 @@ Los usuarios deberían poder:
 - Copiar el enlace acortado al portapapeles con un solo clic
 - Recibir un mensaje de error cuando se envía el formulario si:
   - El campo de entrada está vacío
+  - La URl no es valida
 - Ver el diseño óptimo para la interfaz según el tamaño de la pantalla de su dispositivo
 - Ver estados de desplazamiento y enfoque para todos los elementos interactivos en la página.
 
@@ -33,11 +34,11 @@ Los usuarios deberían poder:
 
 #### Escritorio
 
-![Escritorio](src\assets\images\nombreImagen.png)
+   <image src="src\assets\images\nameImage.png" alt="nameImage">
 
 #### Móvil
 
-![Móvil](src\assets\images\nombreImagen.png)
+   <image src="src\assets\images\nameImage.png" alt="nameImage">
 
 ## Mi Proceso
 
@@ -57,7 +58,7 @@ Los usuarios deberían poder:
 
 #### Clonar este repositorio
 
-`cd ./nombreProyecto`
+`git clone https://github.com/eternum-dev/shorter-url-api`
 
 #### Acceder al archivo Nombre Proyecto
 
@@ -93,9 +94,8 @@ Los usuarios deberían poder:
 
 ## English
 
-# Name Proyect
-
-This is a solution to the [Age calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/age-calculator-app-dF9DFFpj-Q).
+# shortly
+This is a solution to the [URL shortening API landing page](https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G).
 
 ## Table of contents
 - [Overview](#overview)
@@ -118,9 +118,10 @@ Users should be able to:
 -See a list of their shortened links, even after refreshing the browser
 -Copy the shortened link to their clipboard in a single click
 -Receive an error message when the form is submitted if:
-The input field is empty
+    -The input field is empty
+    -The URl is not valid
 -View the optimal layout for the interface depending on their device's screen size
--See hover and focus states for all interactive elements on the page,,
+-See hover and focus states for all interactive elements on the page,
 
 ### Screenshot
 
@@ -151,7 +152,7 @@ The input field is empty
 
 #### Clone this repository
 
-`cd  ./nameProyect`
+`git clone https://github.com/eternum-dev/shorter-url-api`
 
 
 #### Go file Name Proyect
