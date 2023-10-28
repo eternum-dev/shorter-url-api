@@ -125,13 +125,13 @@ Users should be able to:
 
 ### Screenshot
 
-#### desktop
+#### Desktop
 
-  <image src="src\assets\images\nameImage.png" alt="nameImage">
+   <image src="src\images\design\short-url-desktop-mockup.png" alt="nameImage">
 
-#### movil
+#### Mobile
 
-   <image src="src\assets\images\nameImage.png" alt="nameImage">
+   <image src="src\images\design\short-url-mobile-mockup.png" alt="nameImage">
 
 ## My process
 
