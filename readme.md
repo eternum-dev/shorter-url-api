@@ -2,7 +2,7 @@
 
 # shortly
 
-Esta es una solución para el [desafío de la aplicación calculadora de edad en Frontend Mentor](https://www.frontendmentor.io/challenges/age-calculator-app-dF9DFFpj-Q).
+Esta es una solución para el desafio  [URL shortening API landing page](https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G).
 
 ## Tabla de Contenidos
 - [Visión general](#visión-general)
@@ -21,13 +21,13 @@ Esta es una solución para el [desafío de la aplicación calculadora de edad en
 ### Proyecto
 
 Los usuarios deberían poder:
-- Acortar cualquier URL válida
-- Ver una lista de sus enlaces acortados, incluso después de actualizar el navegador
-- Copiar el enlace acortado al portapapeles con un solo clic
+- Acortar cualquier URL válida.
+- Ver una lista de sus enlaces acortados, incluso después de actualizar el navegador.
+- Copiar el enlace acortado al portapapeles con un solo click.
 - Recibir un mensaje de error cuando se envía el formulario si:
-  - El campo de entrada está vacío
-  - La URl no es valida
-- Ver el diseño óptimo para la interfaz según el tamaño de la pantalla de su dispositivo
+  - El campo de entrada está vacío.
+  - La URl no es valida.
+- Ver el diseño óptimo para la interfaz según el tamaño de la pantalla de su dispositivo.
 - Ver estados de desplazamiento y enfoque para todos los elementos interactivos en la página.
 
 ### Capturas de pantalla
@@ -47,10 +47,10 @@ Los usuarios deberían poder:
 - JavaScript
 - Vite
 - Marcado semántico HTML5
-- Propiedades personalizadas de CSS
-- Enfoque en dispositivos móviles
+- CSS custom properties
+- Mobile First
 - Flexbox
-- Cuadrícula CSS
+- Grid CSS
 - API
 - Fetch
 
@@ -114,14 +114,14 @@ This is a solution to the [URL shortening API landing page](https://www.frontend
 ### Proyect
 
 Users should be able to:
--Shorten any valid URL
--See a list of their shortened links, even after refreshing the browser
--Copy the shortened link to their clipboard in a single click
+-Shorten any valid URL.
+-See a list of their shortened links, even after refreshing the browser.
+-Copy the shortened link to their clipboard in a single click.
 -Receive an error message when the form is submitted if:
-    -The input field is empty
-    -The URl is not valid
--View the optimal layout for the interface depending on their device's screen size
--See hover and focus states for all interactive elements on the page,
+    -The input field is empty.
+    -The URl is not valid.
+-View the optimal layout for the interface depending on their device's screen size.
+-See hover and focus states for all interactive elements on the page.
 
 ### Screenshot
 
