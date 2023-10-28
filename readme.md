@@ -114,14 +114,14 @@ This is a solution to the [URL shortening API landing page](https://www.frontend
 ### Proyect
 
 Users should be able to:
--Shorten any valid URL.
--See a list of their shortened links, even after refreshing the browser.
--Copy the shortened link to their clipboard in a single click.
--Receive an error message when the form is submitted if:
-    -The input field is empty.
-    -The URl is not valid.
--View the optimal layout for the interface depending on their device's screen size.
--See hover and focus states for all interactive elements on the page.
+- Shorten any valid URL.
+- See a list of their shortened links, even after refreshing the browser.
+- Copy the shortened link to their clipboard in a single click.
+- Receive an error message when the form is submitted if:
+    - The input field is empty.
+    - The URl is not valid.
+- View the optimal layout for the interface depending on their device's screen size.
+- See hover and focus states for all interactive elements on the page.
 
 ### Screenshot
 
