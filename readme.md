@@ -34,11 +34,11 @@ Los usuarios deberían poder:
 
 #### Escritorio
 
-   <image src="src\assets\images\nameImage.png" alt="nameImage">
+   <image src="src\images\design\short-url-desktop-mockup.png" alt="nameImage">
 
 #### Móvil
 
-   <image src="src\assets\images\nameImage.png" alt="nameImage">
+   <image src="src\images\design\short-url-mobile-mockup.png" alt="nameImage">
 
 ## Mi Proceso
 
