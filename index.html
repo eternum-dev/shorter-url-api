@@ -18,14 +18,14 @@
     <div id="app">
       <header class="top-header">
         <nav class="top-header__navbar">
-          <a href="#">
+          <a href="#app">
             <img src="src/images/logo.svg" alt="shortly logo" />
           </a>
           <div class="top-header__modal">
             <ul class="top-header__menu">
-              <li><a href="#">features</a></li>
-              <li><a href="#">pricing</a></li>
-              <li><a href="#">resources</a></li>
+              <li><a href="#features">features</a></li>
+              <li><a href="#pricing">pricing</a></li>
+              <li><a href="#resources">resources</a></li>
             </ul>
             <div class="top-header__auth">
               <a href="#">login</a>
@@ -135,20 +135,20 @@
           <section>
             <nav class="footer__nav-menu">
               <ul>
-                <h5>Features</h5>
+                <h5 id="features">Features</h5>
                 <li><a href="#"> Link Shortening </a></li>
                 <li><a href="#"> Branded Links </a></li>
                 <li><a href="#"> Analytics </a></li>
               </ul>
               <ul>
-                <h5>Resources</h5>
+                <h5 id="resources">Resources</h5>
                 <li><a href="#"> Blog </a></li>
                 <li><a href="#"> Developers </a></li>
                 <li><a href="#"> Support </a></li>
               </ul>
 
               <ul>
-                <h5>Company</h5>
+                <h5 id="pricing">Company</h5>
                 <li><a href="#"> About </a></li>
                 <li><a href="#"> Our Team </a></li>
                 <li><a href="#"> Careers </a></li>
@@ -159,8 +159,9 @@
           <section>
             <nav class="footer__nav-social">
               <ul>
+                <!-- los svg han incrustados directamente en html para poder controlar su color con la propiededad fill -->
                 <li>
-                  <a href="#">
+                  <a href="www.facebook.com" target="_blank" rel="noreferrer">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       width="24"
@@ -174,7 +175,7 @@
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="www.twitter.com" target="_blank" rel="noreferrer">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       width="24"
@@ -188,7 +189,7 @@
                   </a>
                 </li>
                 <li>
-                  <a href="">
+                  <a href="www.pinterest.cl/" target="_blank" rel="noreferrer">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       width="24"
@@ -202,7 +203,7 @@
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="https://www.youtube.com/watch?v=3GymExBkKjE" target="_blank" rel="noreferrer">
                     <svg
                       fill="#FFF"
                       xmlns="http://www.w3.org/2000/svg"

@@ -34,11 +34,11 @@ Los usuarios deberían poder:
 
 #### Escritorio
 
-   <image src="src\images\design\short-url-desktop-mockup.png" alt="nameImage">
+   <image src="src\images\design\short-url-desktop-mockup.png" alt="desktop mockup">
 
 #### Móvil
 
-   <image src="src\images\design\short-url-mobile-mockup.png" alt="nameImage">
+   <image src="src\images\design\short-url-mobile-mockup.png" alt="mobile mockup">
 
 ## Mi Proceso
 
@@ -127,11 +127,11 @@ Users should be able to:
 
 #### Desktop
 
-   <image src="src\images\design\short-url-desktop-mockup.png" alt="nameImage">
+   <image src="src\images\design\short-url-desktop-mockup.png" alt="desktop mockup">
 
 #### Mobile
 
-   <image src="src\images\design\short-url-mobile-mockup.png" alt="nameImage">
+   <image src="src\images\design\short-url-mobile-mockup.png" alt="mobile mockup">
 
 ## My process
 

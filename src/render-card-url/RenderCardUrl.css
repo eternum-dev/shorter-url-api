@@ -48,7 +48,7 @@
   background-color: var(--DarkViolet);
 }
 
-@media (min-width: 758px) {
+@media (min-width: 600px) {
   .card {
     display: flex;
     width: 100%;

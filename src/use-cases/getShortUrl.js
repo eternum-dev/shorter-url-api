@@ -1,10 +1,9 @@
-
-
 /**
  * 
  * @param {String} urlString 
  * @returns 
  */
+
 export const getShortUrl = async (urlString) => {
     // variables de entorno
     const API_KEY = import.meta.env.VITE_API_KEY;
